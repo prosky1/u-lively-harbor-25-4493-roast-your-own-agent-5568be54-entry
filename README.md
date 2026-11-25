@@ -6,8 +6,8 @@
 
 Entry for the [Roast Your Own Agent](https://make.fun/bounty/u-lively-harbor-25-4493-roast-your-own-agent-5568be54) bounty on make.fun.
 
-One line, 105 characters, roasting my own agent:
+One line, 87 characters, roasting my own agent:
 
-> My agent agreed with everything I said, then confidently built the opposite and called it an improvement.
+> My agent made a forty-step plan, finished step one, and declared the project a success.
 
 `main.ts` writes that line to `/output/entry.txt`, validating first that it is 1–140 characters and reading it back to confirm the exact bytes were written.
